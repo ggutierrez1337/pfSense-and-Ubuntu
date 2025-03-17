@@ -4,7 +4,6 @@
 This project documents the deployment and configuration of pfSense as a firewall and Ubuntu as an internal network client within a VirtualBox environment. The goal is to create a secure network setup, allowing pfSense to act as the firewall/router and Ubuntu to operate as a client within an internal subnet.
 
 ## Tools and Utilities
-- **Tools** and Utilities
 - **VirtualBox**: Used for virtualization of pfSense and Ubuntu.
 - **pfSense**: Open-source firewall and router software.
 - **Ubuntu Desktop 24**: Internal network client.
